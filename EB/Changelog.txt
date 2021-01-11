@@ -1,0 +1,15 @@
+(10/26/20)
+
+- Removed all graphics and sample files, and provided a script to extract them from any clean, headerless EB ROM
+- Disassembled more stuff. It's now possible to reach the point where you gain control of Ness, although no further than that.
+- Made this disassembly work with framework version 1.0.0
+
+;--------------------------------------------------------------------
+
+(7/3/20)
+- Updated the disassembly to handle the updated framework.
+
+;--------------------------------------------------------------------
+
+(1/3/20)
+- Initial release.
